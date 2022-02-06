@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992351960680",
+    "firebase_url": "https://rewarder-992b3.firebaseio.com",
+    "project_id": "rewarder-992b3",
+    "storage_bucket": "rewarder-992b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992351960680:android:76b473eb732fc55a72c5dd",
+        "android_client_info": {
+          "package_name": "com.rewarderApp.reward_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992351960680-mfvsbolb4qf7820bbmperha7l28rm4ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rewarderApp.reward_app",
+            "certificate_hash": "01325640dc6c79ee9b636475f2970a562eb5289e"
+          }
+        },
+        {
+          "client_id": "992351960680-p24dnc14oj0lfc9r6vkao8ptvpn3ug7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmuah96Ra_OeqmmMKoO13BMTEAbQ5iasI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992351960680-p24dnc14oj0lfc9r6vkao8ptvpn3ug7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
